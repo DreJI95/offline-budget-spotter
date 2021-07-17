@@ -19,8 +19,10 @@
 
   # Usage 
      Enter a transaction and it Add or Subtract to see the trend on the graph.
-     
-  Heroku Link: https://offline-budget-spotter.herokuapp.com/
+   ![image](https://user-images.githubusercontent.com/76451565/126051598-862c7eea-9101-4dd4-bc28-14e9709b33ff.png)
+   ![image](https://user-images.githubusercontent.com/76451565/126051609-bd39e821-a8ec-4307-9599-4955648826ef.png)
+
+   Heroku Link: https://offline-budget-spotter.herokuapp.com/
 
   # License
      MIT: https://choosealicense.com/licenses/mit/
